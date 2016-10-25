@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OtpVerification</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="call_otp">call otp</string>
+    <string name="verify">verify</string>
+    <string name="prefs_key">be_1128_2k11</string>
+    <string name="hint_enter_otp">enter otp</string>
+</resources>
